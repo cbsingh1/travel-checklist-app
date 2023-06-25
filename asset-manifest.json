@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/travel-checklist-app/static/css/main.fdc828fe.css",
+    "main.js": "/travel-checklist-app/static/js/main.5119ce34.js",
+    "index.html": "/travel-checklist-app/index.html",
+    "main.fdc828fe.css.map": "/travel-checklist-app/static/css/main.fdc828fe.css.map",
+    "main.5119ce34.js.map": "/travel-checklist-app/static/js/main.5119ce34.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fdc828fe.css",
+    "static/js/main.5119ce34.js"
+  ]
+}
